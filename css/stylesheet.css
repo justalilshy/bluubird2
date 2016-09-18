@@ -1,0 +1,129 @@
+/*
+* {
+    border: 1px red solid;
+}
+*/
+
+html {
+    height: 100%;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    color: #6D6E70;
+    font-family: Dosis;
+}
+
+.header {
+    text-align: center;
+    margin-top: 13em;
+}
+
+.title {
+    font-size: 5em;
+}
+
+.subtitle {
+    font-size: 3em;
+}
+
+.content {
+    text-align: center;
+}
+
+.topspace {
+    height: 20%;
+}
+
+.bottomspace {
+    height: 30%;
+    text-align: center;
+}
+
+#camera {
+    width: 70%;
+    height: 60em;
+    margin: auto;
+    margin-bottom: 5em;
+}
+
+.button {
+    border: 1px #58C6D1 dashed;
+    background-color: #58C6D1;
+    padding: 0.5em;
+    border-radius: 25px;
+    margin-top: 10em;
+    font-size: 3em;
+    color: white;
+    text-decoration: none;
+}
+
+#CodeSearch * {
+    font-size: 2em;
+    font-family: Dosis;
+}
+
+#BarcodeForm {
+    border: 1px #58C6D1 solid;
+    text-align: center;
+    padding: 0.5em;
+    width: 50%;
+    border-radius: 25px;
+}
+
+#SubmitButton {
+    background-color: #58C6D1;
+    color: white;
+    padding: 0.5em;
+    border-radius: 25px;
+}
+
+.footer {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    background-color: #58c6d2;
+    height: 13em;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+.footer_left {
+    float: left;
+    margin: 3em;
+}
+
+.footer_right {
+    float: right;
+    margin: 3em;
+}
+
+.icon {
+    width: 120x;
+    height: 120px;
+}
+
+.tutorial {
+    width: 70%;
+    margin: 0;
+    margin-bottom: 8em;
+}
+
+#tutorial2 {
+    padding-bottom: 7em;
+}
+
+#headertutorial {
+    margin-top: 0;
+    text-align: center;
+}
+
+.img {
+    width: 150px;
+}
